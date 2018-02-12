@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="" label="Innovation" language="en" table="x_51117_innovate_innovate_request">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Innovation</label>
+            <language>en</language>
+            <name>x_51117_innovate_innovate_request</name>
+            <plural>Innovations</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-12 19:27:47</sys_created_on>
+            <sys_id>de47acb40f10130087f24e9ce1050eaa</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>Innovation</sys_name>
+            <sys_package display_value="Innovate app" source="x_51117_innovate">eee2e8300f10130087f24e9ce1050ebb</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Innovate app">eee2e8300f10130087f24e9ce1050ebb</sys_scope>
+            <sys_update_name>sys_documentation_x_51117_innovate_innovate_request__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-12 19:35:40</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

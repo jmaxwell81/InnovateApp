@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Innovate app">8647acb40f10130087f24e9ce1050e7e</application>
+        <filter/>
+        <name>Innovate requests</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_51117_innovate.innovate_request_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-02-12 19:27:46</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>4a47acb40f10130087f24e9ce1050e80</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Innovate requests</sys_name>
+        <sys_package display_value="Innovate app" source="x_51117_innovate">eee2e8300f10130087f24e9ce1050ebb</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Innovate app">eee2e8300f10130087f24e9ce1050ebb</sys_scope>
+        <sys_update_name>sys_ui_module_4a47acb40f10130087f24e9ce1050e80</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-02-12 19:27:46</sys_updated_on>
+        <table>x_51117_innovate_innovate_request</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>
