@@ -8,7 +8,6 @@
         <grantable>true</grantable>
         <includes_roles/>
         <name>x_51117_innovate.innovate_request_user</name>
-        <scoped_admin>false</scoped_admin>
         <suffix>innovate_request_user</suffix>
         <sys_class_name>sys_user_role</sys_class_name>
         <sys_created_by>admin</sys_created_by>

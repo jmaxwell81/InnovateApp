@@ -31,8 +31,6 @@
         <element>number</element>
         <element_reference>false</element_reference>
         <foreign_database/>
-        <function_definition/>
-        <function_field>false</function_field>
         <internal_type display_value="String">string</internal_type>
         <mandatory>false</mandatory>
         <max_length>40</max_length>
@@ -54,15 +52,15 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2018-02-12 19:27:48</sys_created_on>
-        <sys_id>6a47acb40f10130087f24e9ce1050ec0</sys_id>
+        <sys_id>930a64740f50130084384cace1050ebd</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Number</sys_name>
         <sys_package display_value="Innovate app" source="x_51117_innovate">eee2e8300f10130087f24e9ce1050ebb</sys_package>
         <sys_policy/>
         <sys_scope display_value="Innovate app">eee2e8300f10130087f24e9ce1050ebb</sys_scope>
         <sys_update_name>sys_dictionary_x_51117_innovate_innovate_request_number</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-02-12 19:27:48</sys_updated_on>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2018-02-12 19:39:53</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
